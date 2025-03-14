@@ -24,8 +24,9 @@ A console-based Payroll Management System that allows adding, removing, and disp
 - Calculates salaries dynamically based on employee type.  
 - Interactive **menu-driven system** for employee management.  
 
+📌 [View Payroll System Code](./EmployeePayRollSystem/Main.java)  
+
 
 ## Contributions  
 Feel free to fork this repository and submit pull requests for improvements or new features.  
-
 Let me know if you'd like any changes or additions! 🚀😊
