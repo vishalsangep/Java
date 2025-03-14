@@ -23,7 +23,4 @@ This is a simple command-line Tic-Tac-Toe game implemented in Java. Two players 
    ```  
 
 ## Contributions  
-Feel free to fork this repository and submit pull requests for improvements or new features.  
-
-## License  
-This project is open-source and available under the MIT License. 😊
+Feel free to fork this repository and submit pull requests for improvements or new features. 😊
